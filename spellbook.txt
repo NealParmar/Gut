@@ -1,0 +1,16 @@
+// Spellbook of Dumbledore
+// Contains a list of known spells and their effects
+
+Accio - Summons an object to the caster
+Expelliarmus - Disarms an opponent, causing them to drop their wand
+Avada Kedavra - Unforgivable curse, causes instant death
+Wingardium Leviosa - Levitates objects
+Obliviate - Memory charm, erases memories of a specific event
+Petrificus Totalus - Stupefying spell, paralyzes the target
+Incarcerous - Conjures ropes to bind the target
+Lumos - Produces light at the tip of the wand
+Nox - Extinguishes the light produced by Lumos
+Expecto Patronum - Conjures a Patronus, a protective guardian
+Riddikulus - Used to combat Boggarts, changes their form to something humorous
+
+// Note: Always be cautious when using powerful spells
